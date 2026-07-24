@@ -4,7 +4,7 @@ A machine learning web app that classifies text messages as **Spam** or **Ham** 
 
 ## Overview
 
-This project was built as part of my AI/ML internship (July–August 2026). It uses Natural Language Processing (NLP) techniques to analyze SMS text messages and predict whether they are spam.
+This project was built using Natural Language Processing (NLP) techniques to analyze SMS text messages and predict whether they are spam.
 
 ## Features
 
